@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm Umaru Bayoh
 
-<!--
-**Kemoh/Kemoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 ABOUT ME
 
-Here are some ideas to get you started:
+ - 🌍 Based in Freetown, Sierra Leone
+ - 🎓 Software Engineering Student @ BYU–Idaho
+ - 🎓 Master’s in Impact Entrepreneurship @ ALTIS, Università Cattolica del Sacro Cuore, Italy
+ - 💻 Learning and building projects in web development, software engineering, and entrepreneurship-driven solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ TECH SKILLS
+- Programming: JavaScript, Python, C++, Java  
+- Web Development: HTML, CSS, React, Node.js  
+- Databases: MySQL, MongoDB 
+- Tools: Git, GitHub, VS Code, Figma
+
