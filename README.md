@@ -9,8 +9,8 @@
 
 
 🛠️ TECH SKILLS
-- Programming: JavaScript, Python, C++, Java  
-- Web Development: HTML, CSS, React, Node.js  
+- Programming: JavaScript, Python, C++  
+- Web Development: HTML, CSS, Node.js  
 - Databases: MySQL, MongoDB 
-- Tools: Git, GitHub, VS Code, Figma
+- Tools: Git, GitHub, VS Code
 
